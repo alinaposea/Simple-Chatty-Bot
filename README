@@ -1,0 +1,7 @@
+Hi,
+
+This project is my first java project.
+
+In the ChattyBot.java file you will find the code.
+
+This ChattyBot is using the Scanner object to read the informations, and System.out.println to print them.
